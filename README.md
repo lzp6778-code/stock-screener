@@ -44,7 +44,6 @@ stock-screener/
 ├── data_fetcher.py   # 数据获取（efinance）
 ├── screener.py       # 筛选逻辑
 ├── visualizer.py     # 可视化
-├── diagnose.py       # 诊断脚本（排查环境问题）
 └── README.md
 ```
 
